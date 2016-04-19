@@ -1,2 +1,4 @@
 # Virtualenv
 .env
+# Python files
+*.pyc
