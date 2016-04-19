@@ -2,3 +2,5 @@
 .env
 # Python files
 *.pyc
+# Vim swap
+*.swp
